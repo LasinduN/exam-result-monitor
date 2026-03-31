@@ -41,7 +41,7 @@ Make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/exam-result-monitor.git
+git clone https://github.com/LasinduN/exam-result-monitor.git
 cd exam-result-monitor
 ```
 
